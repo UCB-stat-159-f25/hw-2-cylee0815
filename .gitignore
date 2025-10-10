@@ -1,0 +1,6 @@
+# Ignore .png files (the images from running the notebook)
+*.png
+# Ignore .wav files (the audios from running the notebook)
+*.wav
+# Ignore .csv files (the csv from running the notebook)
+*.csv
